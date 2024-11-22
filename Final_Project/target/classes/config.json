@@ -1,0 +1,4 @@
+{
+  "webdriver_path": "path/to/chromedriver",
+  "base_url": "https://parabank.parasoft.com/parabank/"
+}
